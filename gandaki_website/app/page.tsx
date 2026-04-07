@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const slides = [
   {
-    image: "/hero/hero-1.jpg",     
+    image: "/hero/cows.webp",     
     label: "Welcome to Gandaki",
     title: "Rescue.\nLove. Care.\nRepeat.",
     subtitle: "A safe haven for animals who have known suffering — and now deserve safety, dignity, and love.",
